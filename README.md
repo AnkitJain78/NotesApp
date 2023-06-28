@@ -52,12 +52,6 @@ class that describes a database table.
 
 ### Screenshots
 
-### List Notes,  Add Note,  Update Note, Delete Node, Delete All, Theme Change
-<p>
-<img src="NotesShow.jpg" height="580" width="280">
-<img src="addNote.gif" height="580" width="280">
-<img src="noteUpdated.gif" height="580" width="280">
-<img src="deleteNote.gif" height="580" width="280">
-<img src="deleteAll.gif" height="580" width="280">
-<img src="themeChange.gif" height="580" width="280">
-</p
+| Add Note | Update Note | Delete Node | Delete All | Theme Change |
+| --- | --- | --- | --- | --- |
+| <img src="addNote.gif" height="384" width="168"> | <img src="noteUpdated.gif" height="384" width="168"> | <img src="deleteNote.gif" height="384" width="168"> | <img src="deleteAll.gif" height="384" width="168"> | <img src="themeChange.gif" height="384" width="168"> |
